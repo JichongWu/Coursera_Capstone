@@ -1,0 +1,13 @@
+﻿Stove Type,Stove Price,WTP (respondent%),Group,Cash vs Loan
+"Portable 8""",400,35.9,Treatment,cash  
+"Portable 8""",400,2.2,Treatment,loan
+"Portable 8""",400,34,Control,cash  
+"Portable 8""",400,0.02,Control,loan
+Double mouth chimney,950,23.15,Treatment,cash  
+Double mouth chimney,951,20.41,Treatment,loan
+Double mouth chimney,952,19.7,Control,cash  
+Double mouth chimney,953,8.42,Control,loan
+Advanced ICS (pellet-based),2100,9.1,Treatment,cash  
+Advanced ICS (pellet-based),2101,25.43,Treatment,loan
+Advanced ICS (pellet-based),2102,9.5,Control,cash  
+Advanced ICS (pellet-based),2103,12.77,Control,loan
